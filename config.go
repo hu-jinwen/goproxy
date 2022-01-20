@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
+	"github.com/snail007/goproxy/services"
+	"github.com/snail007/goproxy/utils"
 	"io/ioutil"
 	"log"
 	"os"
-	"github.com/snail007/goproxy/services"
-	"github.com/snail007/goproxy/utils"
 
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 )
